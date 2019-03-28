@@ -12,5 +12,5 @@ What's posted here are my own custom scripts for the game.
 * Legendxh's Snap-To-Grid
 
 
-[**Check it out for free here!**](https://cnnmon.itch.io/goodmorning)
+Check it out for free on [**itch.io**](https://cnnmon.itch.io/goodmorning) or [**newgrounds!**](https://www.newgrounds.com/portal/view/727878)
 
