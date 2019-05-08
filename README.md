@@ -5,7 +5,7 @@ a short, feel-good simulator about morning routines ｡･:*:･ﾟ★,｡･
 here are all of my custom scripts for the game.
 
 **Tools:**
-* unity C#
+* unity c#
 * tmpro
 * leantween
 * 2dxfx
